@@ -29,8 +29,16 @@ Total pages added: 15
 PDF Merge Completed Successfully.
 ```
 ## Installation
-1. Clone the repository.
-   git clone https://github.com/yourusername/pdf_merger.git
-3. Navigate to the project directory.
-
+1. **Clone the repository**.
+   ```sh
+   git clone https://github.com/Dosobella/PDF-Merger.git
+2. **Navigate to the project directory**.
+   ```sh
+   cd PDF_merger
+3. **Install required dependencies**.
+   ```sh
+   pip install PyPDF2
+## Run the script
+```sh
+pip PDF_merger.py
 
