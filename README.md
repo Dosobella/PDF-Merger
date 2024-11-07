@@ -28,6 +28,9 @@ Processing: file3.pdf
 Total pages added: 15
 PDF Merge Completed Successfully.
 ```
-##
+## Installation
+1. Clone the repository.
+   git clone https://github.com/yourusername/pdf_merger.git
+3. Navigate to the project directory.
 
 
