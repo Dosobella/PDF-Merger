@@ -2,7 +2,7 @@
 """
 Created on Sun Nov  3 22:16:58 2024
 
-@author: CEPHAS
+@author: Dosobella
 """
 import PyPDF2  # Import the PyPDF2 library for PDF operations
 import tkinter as tk  # Import the Tkinter library for GUI creation
