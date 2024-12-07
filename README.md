@@ -1,7 +1,7 @@
 # PDF-Merger
 
 ## Overview
-This project is a PDF merger application that allows users to merge multiple PDF files into a single PDF. 
+This project is a PDF merger Python script that allows users to merge multiple PDF files into a single PDF. 
 It provides a graphical user interface (GUI) for easy interaction and file selection.
 
 ## Features
